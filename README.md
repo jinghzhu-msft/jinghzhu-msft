@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinghzhu-msft
 - 👀 I’m based in Shanghai.
-- 🌱 I’m currently working on Azure Application Config, Azure Managed Grafana, and Workflow for SharePoint.
+- 🌱 I’m currently working on Azure Managed Grafana.
 - 📫 How to reach me - jinghzhu@microsoft.com
 
 <!---
